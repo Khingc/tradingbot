@@ -10,7 +10,7 @@ API_KEY = os.getenv("alpacakey")
 API_SECRET = os.getenv("alpacasecret")
 BASE_URL = "https://paper-api.alpaca.markets"
 
-SYMBOL = "AAPL"
+SYMBOL = "IAU"
 QTY = 1
 SHORT_WINDOW = 5
 LONG_WINDOW = 20
